@@ -1,7 +1,7 @@
 {
   "background_color": "purple",
-  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
-  "display": "fullscreen",
+  "description": "The best in e-medicines.",
+  "display": "standalone",
   "icons": [
     {
       "src": "icon/fox-icon.png",
@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures",
-  "short_name": "Foxes",
-  "start_url": "/pwa-examples/a2hs/index.html"
+  "name": "naidafrik.com",
+  "short_name": "naid",
+  "start_url": "192.168.100.95:8012/vrs5.1/Html/index.php"
 }
