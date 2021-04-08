@@ -1,3 +1,4 @@
+
 {
   "background_color": "white",
   "description": "VIRTUAL CLINIC",
@@ -11,5 +12,5 @@
   ],
   "name": "need aid africa",
   "short_name": "naid",
-  "start_url": "http://localhost:8012/vrs5.1/Html/index.php"
+  "start_url": "localhost:8012/vrs5.1/Html/index.php"
 }
