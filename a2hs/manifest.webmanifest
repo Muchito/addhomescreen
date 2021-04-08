@@ -1,5 +1,5 @@
 {
-  "background_color": "purple",
+  "background_color": "white",
   "description": "The best in e-medicines.",
   "display": "standalone",
   "icons": [
@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "naidafrik.com",
+  "name": "naid by virtual clinic",
   "short_name": "naid",
   "start_url": "http://192.168.100.95:8012/vrs5.1/Html/index.php"
 }
