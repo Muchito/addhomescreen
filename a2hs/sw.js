@@ -1,6 +1,6 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
-    caches.open('fox-store').then((cache) => cache.addAll([
+    caches.open('naid').then((cache) => cache.addAll([
       '',
       'index.html',
       'index.js',
