@@ -1,14 +1,14 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('fox-store').then((cache) => cache.addAll([
-      '/addhomescreenss/a2hs/',
-      '/addhomescreenss/a2hs/index.html',
-      '/addhomescreenss/a2hs/index.js',
-      '/addhomescreenss/a2hs/style.css',
-      '/addhomescreenss/a2hs/images/fox1.jpg',
-      '/addhomescreenss/a2hs/images/fox2.jpg',
-      '/addhomescreenss/a2hs/images/fox3.jpg',
-      '/addhomescreenss/a2hs/images/fox4.jpg',
+      '/a2hs/',
+      '/a2hs/index.html',
+      '/a2hs/index.js',
+      '/a2hs/style.css',
+      '/a2hs/images/fox1.jpg',
+      '/a2hs/images/fox2.jpg',
+      '/a2hs/images/fox3.jpg',
+      '/a2hs/images/fox4.jpg',
     ])),
   );
 });
