@@ -1,7 +1,7 @@
 {
-  "background_color": "white",
-  "description": "The best in e-medicines.",
-  "display": "standalone",
+  "background_color": "purple",
+  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "display": "fullscreen",
   "icons": [
     {
       "src": "icon/fox-icon.png",
@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "naid by virtual clinic",
-  "short_name": "naid",
-  "start_url": "http://192.168.100.95:8012/vrs5.1/Html/index.php"
+  "name": "Awesome fox pictures",
+  "short_name": "Foxes",
+  "start_url": "/pwa-examples/a2hs/index.html"
 }
