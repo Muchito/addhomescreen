@@ -15,12 +15,7 @@ setInterval(() => {
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
-    .register('sw.js')
-    .then(() => { console.log('Service Worker Registered'); });
-}else
- {
-  navigator.serviceWorker
-    .register('sw.js')
+    .register('/pwa-examples/a2hs/sw.js')
     .then(() => { console.log('Service Worker Registered'); });
 }
 
