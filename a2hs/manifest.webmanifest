@@ -2,6 +2,7 @@
  "background_color": "white",
   "description": "The best in e-medicines.",
   "display": "standalone",
+  "theme_color": "white",
   "icons": [
     {
       "src": "icon/fox-icon.png",
@@ -11,5 +12,5 @@
   ],
   "name": "naid by virtual clinics",
   "short_name": "naid",
-  "start_url": "http://192.168.100.95:8012/vrs5.1/Html/index.php"
+  "start_url": "vrs5.1/Html/index.php"
 }
