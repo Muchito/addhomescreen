@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "naid by virtual clinic",
+  "name": "naid by virtual clinics",
   "short_name": "naid",
-  "start_url": "index.html"
+  "start_url": "http://192.168.100.95:8012/vrs5.1/Html/index.php"
 }
