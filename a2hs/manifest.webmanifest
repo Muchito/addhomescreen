@@ -1,6 +1,6 @@
 {
  "background_color": "white",
-  "description": "The best in e-medicines.",
+  "description": "The best in Estate Houses.",
   "display": "standalone",
   "theme_color": "white",
   "icons": [
@@ -10,7 +10,7 @@
       "type": "image/png"
     }
   ],
-  "name": "naid by virtual clinics",
-  "short_name": "naid",
+  "name": "Blackprince Estate Houses",
+  "short_name": "Blackprince Estate Houses",
   "start_url": "//version/index.html"
 }
